@@ -16,7 +16,7 @@ ol li{
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
-  line-height: 120%;
+  line-height: 200%;
 }
 
 h1, h2{
@@ -49,9 +49,10 @@ img{
 }
 
 .fk{
-  font-weight: normal;
+  font-weight: bold;
 }
 
 #teljes{
   float:right;
+  width: 280px;
 }
